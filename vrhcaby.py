@@ -1,4 +1,4 @@
-print("<-->")
+def f(x):
+    return x
 
-for i in range(11):
-    print("Ahoj")
+print("<-->")
